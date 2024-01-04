@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ZiraeL-on
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Python, SQL
+- 👀 I’m interested in Desktop development and AI
+- 🌱 I’m currently learning Python, SQL,c++
 - 💞️ I’m looking to collaborate on Yandex
 - 📫 How to reach me olegskil228@gmail.com
 
